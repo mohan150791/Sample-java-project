@@ -8,7 +8,7 @@ public class Sample2 {
 		int[] a= {10, 20, 30, 40, 50, 10, 20, 30};//{ 10,10,20,20,30,30,40,50}
 		Arrays.sort(a);
 		System.out.println(a);
-		System.out.println(a[7]);
+		System.out.println(a[5]);
 		System.out.println("Length of an array: "+a[a.length-1]);
 		int length = a.length;
 		System.out.println(length);
